@@ -38,4 +38,4 @@ Java exercise files from the Java program on Codecademy
   * Returns an Integer and prints to the console
  
  * Math Magic program
-  * Performs a Mathematical magic trick
+  * Performs a Mathematical magic trick :shipit:
